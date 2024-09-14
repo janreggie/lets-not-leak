@@ -1,0 +1,6 @@
+github.com/jessevdk/go-flags v1.6.1 h1:Cvu5U8UGrLay1rZfv/zP7iLpSHGUZ/Ou68T0iX1bBK4=
+github.com/jessevdk/go-flags v1.6.1/go.mod h1:Mk8T1hIAWpOiJiHa9rJASDK2UGWji0EuPGBnNLMooyc=
+golang.org/x/sys v0.21.0 h1:rF+pYz3DAGSQAxAu1CbC7catZg4ebC4UIeIhKxBZvws=
+golang.org/x/sys v0.21.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+gopkg.in/gographics/imagick.v3 v3.7.0 h1:w8iQa58ikuqjX4l2OVML3pgqFcDMD8ywXJ9/cXa33fk=
+gopkg.in/gographics/imagick.v3 v3.7.0/go.mod h1:+Q9nyA2xRZXrDyTtJ/eko+8V/5E7bWYs08ndkZp8UmA=
